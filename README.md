@@ -1,6 +1,6 @@
 # simple-page-with-html-css-ItIsNotResponsive
 
-[Demo Project](https://armiinrafiee.github.io/VeganStore-Avada-Themefusion/)
+- [Demo Project](https://armiinrafiee.github.io/VeganStore-Avada-Themefusion/)
 
 - get in touch with me via *armiindelta@gmail.com*
 <img src="image/scrshot1.png">
